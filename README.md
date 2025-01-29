@@ -1,7 +1,7 @@
 # 🎭 Face Recognition Attendance System
 ![Prject Photo](photos/ScreenshotCopy.png)
 
-![Prject Photo](.photos/Screenshot.png)
+![Prject Photo](photos/Screenshot.png)
 
 ## 🌟 Overview
 The **Face Recognition Attendance System** is an AI-powered application 🤖 designed to automate attendance tracking 📋 using facial recognition technology. It utilizes **OpenCV, MediaPipe, Firebase, and face_recognition** to detect 👀 and recognize students' faces, record attendance ✅, and update a real-time database 📡.
