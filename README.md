@@ -1,5 +1,5 @@
 # 🎭 Face Recognition Attendance System
-![Prject Photo](.photos/ScreenshotCopy.png)
+![Prject Photo](photos/ScreenshotCopy.png)
 
 ![Prject Photo](.photos/Screenshot.png)
 
