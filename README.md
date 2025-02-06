@@ -29,8 +29,4 @@ The **Face Recognition Attendance System** is an AI-powered application 🤖 des
 4. **📄 Display Student Details**: Retrieves and shows student information, including attendance history.
 5. **🔄 UI Mode Switching**: Dynamically changes UI elements based on recognition status.
 
-## 🔮 Future Enhancements
-- 📱 **Mobile App Integration** for easier access.
-- 👥 **Multi-Person Attendance** tracking.
-- 📩 **Live Notifications** via SMS or email upon successful attendance.
-- 🛡️ **AI-Powered Anti-Spoofing** to prevent fraudulent check-ins.
+
